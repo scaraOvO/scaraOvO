@@ -1,7 +1,7 @@
 ```javascript
 /**
  * Hi there, this is 蹦蹦小圆帽!
- * 散厨 / 小男孩系 / 可以面基
+ * 散厨 / 小男孩系
  */
 
 const baseInfo = {
