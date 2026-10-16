@@ -8,7 +8,6 @@ const baseInfo = {
     name: "蹦蹦小圆帽",
     alt:  ["阿帽", "帽帽"],
     role: ["Cyber Security", "Penetration Tester", "Developer", "Student"],
-    location: "🌍 Anywhere on the earth but often in Jinan, CN",
     interests: [
         "Pentesting",
         "Coding",
